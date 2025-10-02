@@ -1,2 +1,2 @@
-# math-class-agent
+# Math Class Agents
 Math Class Agent: Solve Linear Algebra Problems!!
